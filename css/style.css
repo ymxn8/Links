@@ -31,7 +31,7 @@ a {
 }
 
 body {
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Playball', cursive;
   color: aliceblue;
   font-size: 95%;
   background: linear-gradient(#121b50, #14708c); 
@@ -142,6 +142,7 @@ h4 {
     }*/
 
   body {
+    font-family: 'Playball', cursive;
     color: aliceblue;
     text-align: center;
     line-height: 2.0;
